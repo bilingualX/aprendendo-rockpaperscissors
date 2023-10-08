@@ -1,4 +1,4 @@
-# rockpaperscissors
+# Aprendendo e praticando rockpaperscissors
 ## Projeto básico de Pedra, Papel, Tesoura, utilizando Vanilla JavaScript.
 
 Neste projeto, coloquei em prática conceitos básicos de JavaScript. 
