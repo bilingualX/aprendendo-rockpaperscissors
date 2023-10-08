@@ -1,4 +1,3 @@
-
 var playerOpt = "";
 var inimigoOpt= "";
 
