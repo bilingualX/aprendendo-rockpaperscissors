@@ -1,4 +1,4 @@
-// aqui começa o JS
+//JS
 //1. Criando uma variavel e chame com queryselector as imagens do player-options div > img
 //2. criando um loop FOR para selecionar todas as imagens e colocar a opacidade das imagens clicada à 1 (usando eventlistener click)
 //3. agora, crio uma função para deixar apenas a imagem clicada à 1, e resetar as outras pra 0.3
