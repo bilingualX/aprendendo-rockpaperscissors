@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 h2{
 text-align: center;
 font-weight: bold;
@@ -14,20 +15,43 @@ font-size: 40px;
 
 .player-options img,
 .enemy-options img{
-max-width: 200px;
-opacity: 0.3;
-cursor: pointer;
+    display: block; /* Remover margens laterais nas imagens */
+    margin: 0 auto; /* Centralizar horizontalmente as imagens */
+    width: 150px;
+    cursor: pointer;
 
 }
 
 .alinhar{
-display: flex;
+    display: flex;
+    justify-content: center; /* Centralizar horizontalmente o conteúdo de .alinhar */
 }
 .player-options,
 .enemy-options{
 
+    width: 100%;
+   
 
-width: 100%;
-margin-left: 180px;
+}
 
+@media screen and (max-width: 600px) {
+    .player-options,
+    .enemy-options {
+        
+    }
+
+    .player-options img,
+    .enemy-options img {
+        max-width: 40%;   /* Reduz a largura das imagens */                   
+        display: block; /* Remove margens laterais nas imagens */
+        margin: 0 auto; /* Centraliza horizontalmente as imagens */
+    }
+
+    .h2 {
+        font-size: 32px; /* Reduz o tamanho do título */
+    }
+
+    .vitoria {
+        font-size: 28px; /* Reduz o tamanho do texto de vitória */
+    }
 }
