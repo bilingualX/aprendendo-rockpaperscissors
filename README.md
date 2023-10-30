@@ -16,6 +16,5 @@ Welcome to my journey of learning and improving my coding skills through my Rock
 
 ✨ Conditionals: I've implemented intricate conditional statements with "if," creating decision logic and enhancing user experiences.
 
-This journey has been nothing short of exhilarating! 🎉 With meticulous documentation, insightful comments, and a step-by-step approach, I've triumphed in creating a successful project. I've embarked on this study adventure alongside the incredible DankiCode Team, and the experience has been phenomenal. 💪
 
-Come explore and experience my game! ✨
+[**Explore Now**](https://gustavo19972023.github.io/aprendendo-rockpaperscissors/)
