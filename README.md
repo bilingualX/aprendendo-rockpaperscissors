@@ -6,7 +6,7 @@ Welcome to my journey of learning and improving my coding skills through my Rock
 
 🌟 What I've Conquered:
 
-✨ Embracing Loops: I've harnessed the power of loops, letting me create dynamic and interactive gameplay.
+✨ Loops: I've harnessed the power of loops, letting me create dynamic and interactive gameplay.
 
 ✨ querySelector: I've mastered the art of selecting and manipulating HTML elements, adding flair to the game's interface.
 
